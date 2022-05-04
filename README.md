@@ -1,4 +1,4 @@
-# gaia-dr3-photometirc-uncertainties
+# gaia-dr3-photometric-uncertainties
 Tool to reproduce the median DR3 photometric uncertainty for G, BP and RP instruments and scale them to different number of observations.
 
 The process to derive this median behaviour is explained in the GAIA-C5-TN-UB-JMC-031 Technical note. 
